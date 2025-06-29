@@ -1,0 +1,16 @@
+.aTag {
+    color:coral;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    transition-delay: 0s;
+}
+
+.aTag:hover {
+    text-decoration: underline;
+    color:chocolate;
+    transition-delay: 0.05s;
+}
+
+.openCloseBtn {
+    background-color: white;
+}
