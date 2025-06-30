@@ -37,3 +37,7 @@ body {
 .introTh {
     font-size:x-large;
 }
+
+.introTd {
+    font-size: larger;
+}
