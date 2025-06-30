@@ -24,7 +24,11 @@ body {
     margin: 1px 100px;
 }
 
-.intro, th, td {
+.intro, .introTh, .introTd {
     border:3px solid black;
     border-collapse: collapse;
+}
+
+.introTh {
+    font-size:x-large;
 }
