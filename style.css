@@ -29,6 +29,10 @@ body {
     border-collapse: collapse;
 }
 
+.intro {
+    margin-right:0;
+}
+
 .introTh {
     font-size:x-large;
 }
