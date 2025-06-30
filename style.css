@@ -23,3 +23,7 @@ body {
 .wikiBox {
     margin: 1px 100px;
 }
+
+.intro {
+    border:3px solid black
+}
